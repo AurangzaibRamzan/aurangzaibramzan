@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi  👋  I'm Auangzaib (Full Stack developer) 
 
-<!--
-**AurangzaibRamzan/aurangzaibramzan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭    I’m currently working on Javascript including react, redux, react native, node, graphql, next js and much more. 
+- 💬    Ask me about things related to javascript
+- 📫    How to reach me: aurangzaib987@gmail.com
+- ⚡     Fun fact: its a secret 
 
-Here are some ideas to get you started:
+### Links
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [**Stackoverflow**](https://stackoverflow.com/users/8239116/aurangzaib-rana)
+- [**Website**](https://aurangzaib.codes/)
+- [**Github**](https://github.com/AurangzaibRamzan)
+- [**Email**](mailto:aurangzaib987@gmail.com)
+
+
+I'd love to branch out and create more useful code. If you have any suggestions or comments, feel free to email me at **aurangzaib987@gmail.com**.
