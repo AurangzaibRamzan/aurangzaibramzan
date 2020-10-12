@@ -1,4 +1,4 @@
-### Hi  👋  I'm Auangzaib (Full Stack developer) 
+### Hi  👋  I'm Aurangzaib (Full Stack developer) 
 
 - 🔭    I’m currently working on Javascript including react, redux, react native, node, graphql, next js and much more. 
 - 💬    Ask me about things related to javascript
