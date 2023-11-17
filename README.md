@@ -14,3 +14,6 @@
 
 
 I'd love to branch out and create more useful code. If you have any suggestions or comments, feel free to email me at **aurangzaib987@gmail.com**.
+
+
+[![AurangzaibRamzan's GitHub | Stats](https://stats.quine.sh/AurangzaibRamzan/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=AurangzaibRamzan)
