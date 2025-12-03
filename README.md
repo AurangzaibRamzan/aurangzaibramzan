@@ -34,14 +34,6 @@ Experienced **Full Stack Developer** and **Technical Team Lead** with strong exp
 
 I love creating **useful and innovative code**. If you have suggestions or ideas for collaboration, feel free to reach out!  
 
----
-
-## 📊 GitHub & Stack Overflow Stats
-
-![AurangzaibRamzan's GitHub Stats](https://stats.quine.sh/AurangzaibRamzan/github?theme=light)  
-![AurangzaibRamzan's Stack Overflow Stats](https://stats.quine.sh/AurangzaibRamzan/stack-overflow?theme=light)  
-
----
 
 ## ⚡ Fun Fact
 Some secrets are better left unexplored 😉
